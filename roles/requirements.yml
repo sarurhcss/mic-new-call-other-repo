@@ -1,0 +1,4 @@
+---
+ - src: https://github.com/sarurhcss/continues_engineering.git
+   version: origin/main
+   scm: git
